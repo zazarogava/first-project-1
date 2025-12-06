@@ -10,6 +10,10 @@ nav ul{
 
 }
 
+nav{
+    background-color: blue;
+}
+
 nav a{
     text-decoration: none;
     color: black;
